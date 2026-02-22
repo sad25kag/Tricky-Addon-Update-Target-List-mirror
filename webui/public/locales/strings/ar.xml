@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="system_default">الإعدادات الافتراضية للنظام</string>
+    <string name="system_default">النظام الافتراضي</string>
     <string name="more_language">المزيد</string>
     <!-- Header -->
     <string name="header_title">Tricky Addon</string>
@@ -120,6 +120,7 @@
     <string name="add_system_app_title">إضافة تطبيق نظام</string>
     <string name="add_system_app_add">إضافة</string>
     <string name="add_system_app_current_list">قائمة تطبيقات النظام الحالية</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">تأكيد إلغاء التثبيت؟</string>
     <string name="confirmation_uninstall_message">هل أنت متأكد أنك تريد إلغاء تثبيت Tricky Addon</string>

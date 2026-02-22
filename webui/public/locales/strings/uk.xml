@@ -119,6 +119,7 @@
     <string name="add_system_app_title">Додати системний застосунок</string>
     <string name="add_system_app_add">Add</string>
     <string name="add_system_app_current_list">Поточний список системних застосунків</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">Підтверджуєте видалення?</string>
     <string name="confirmation_uninstall_message">Ви дійсно хочете видалити Tricky Addon?</string>

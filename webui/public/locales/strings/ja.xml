@@ -109,6 +109,7 @@
     <string name="add_system_app_title">システムアプリを追加</string>
     <string name="add_system_app_add">追加</string>
     <string name="add_system_app_current_list">現在のシステムアプリリスト</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">アンインストールしますか？</string>
     <string name="confirmation_uninstall_message">Tricky Addon をアンインストールしてもよろしいですか</string>

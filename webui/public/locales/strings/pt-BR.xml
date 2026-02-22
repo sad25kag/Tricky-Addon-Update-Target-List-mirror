@@ -117,6 +117,7 @@
     <string name="add_system_app_title">Adicionar app do sistema</string>
     <string name="add_system_app_add">Adicionar</string>
     <string name="add_system_app_current_list">Lista de aplicativos do sistema atual</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">Confirmar desinstalar?</string>
     <string name="confirmation_uninstall_message">Tem certeza que deseja desinstalar Tricky Addon</string>

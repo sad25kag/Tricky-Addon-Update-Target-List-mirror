@@ -109,6 +109,7 @@
     <string name="add_system_app_title">Tambah Aplikasi Sistem</string>
     <string name="add_system_app_add">Tambah</string>
     <string name="add_system_app_current_list">Daftar Aplikasi Sistem Saat Ini</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">Konfirmasi Hapus?</string>
     <string name="confirmation_uninstall_message">Apakah Anda yakin ingin menghapus Tricky Addon</string>

@@ -120,6 +120,7 @@
     <string name="add_system_app_title">Thêm ứng dụng hệ thống</string>
     <string name="add_system_app_add">Thêm</string>
     <string name="add_system_app_current_list">Danh sách ứng dụng hệ thống hiện tại</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">Xác nhận Gỡ cài đặt?</string>
     <string name="confirmation_uninstall_message">Bạn có chắc muốn Gỡ cài đặt Tricky Addon không?</string>

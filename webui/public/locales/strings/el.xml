@@ -103,6 +103,7 @@
     <string name="add_system_app_title">Πρόσθεσε Εφαρμογή Συστήματος</string>
     <string name="add_system_app_add">Πρόσθεσε</string>
     <string name="add_system_app_current_list">Τρέχουσα Λίστα Εφαρμογών Συστήματος</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">Επιβεβαίωση Απεγκατάστασης;</string>
     <string name="confirmation_uninstall_message">Είσαι σίγουρος ότι θέλεις να απεγκαταστήσεις το Tricky Addon;</string>

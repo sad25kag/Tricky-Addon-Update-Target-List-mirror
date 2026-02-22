@@ -103,6 +103,7 @@
     <string name="add_system_app_title">افزودن برنامه سیستمی</string>
     <string name="add_system_app_add">افزودن</string>
     <string name="add_system_app_current_list">لیست فعلی برنامه‌های سیستمی</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">تأیید حذف؟</string>
     <string name="confirmation_uninstall_message">آیا مطمئن هستید که می‌خواهید Tricky Addon را حذف کنید</string>

@@ -120,6 +120,7 @@
     <string name="add_system_app_title">添加系統應用</string>
     <string name="add_system_app_add">添加</string>
     <string name="add_system_app_current_list">當前系統應用列表</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">確認卸載？</string>
     <string name="confirmation_uninstall_message">您確定要卸載 TS 插件嗎</string>

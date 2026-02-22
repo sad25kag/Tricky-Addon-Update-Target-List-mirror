@@ -103,6 +103,7 @@
     <string name="add_system_app_title">সিস্টেম অ্যাপ যোগ করুন</string>
     <string name="add_system_app_add">যোগ করুন</string>
     <string name="add_system_app_current_list">বর্তমান সিস্টেম অ্যাপ তালিকা</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">আনইনস্টল নিশ্চিত করুন?</string>
     <string name="confirmation_uninstall_message">আপনি কি নিশ্চিত যে আপনি Tricky Addon আনইনস্টল করতে চান</string>

@@ -103,6 +103,7 @@
     <string name="add_system_app_title">Magdagdag ng System App</string>
     <string name="add_system_app_add">Idagdag</string>
     <string name="add_system_app_current_list">Kasalukuyang Listahan ng System App</string>
+    <!-- CustomKB Dialog -->
     <!-- Uninstall confirmation -->
     <string name="confirmation_uninstall_title">Kumpirmahin ang Pag-uninstall?</string>
     <string name="confirmation_uninstall_message">Sigurado ka bang gusto mong i-uninstall ang Tricky Addon</string>
